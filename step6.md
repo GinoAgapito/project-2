@@ -30,6 +30,7 @@ Insert row of contest in the table
 INSERT INTO example_database.todo_list (content) VALUES ("My first important item");
 ```
 Then check table if row/s are inserted
+
 ![show table](./images/mysql%20table.png)
 
 ## Create a php file that will connect to MySQL
